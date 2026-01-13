@@ -1,4 +1,7 @@
-# Claude to Gemini Converter CLI
+## Gemini Agent Skill
+A comprehensive collection of expert AI Agent Skills for Google Gemini.
+
+## Claude to Gemini Converter CLI
 
 A CLI tool to convert Anthropic Claude "Code" configurations (Plugins, Agents, Skills) into Google Gemini Agent Skills.
 
@@ -28,7 +31,32 @@ Once you have generated your skills, you can interact with them directly in the 
 
 **List installed skills:**
 ```bash
+
+# Install Gemini@0.24.0-preview.0
+npm install -g @google/gemini-cli@0.24.0-preview.0
+
+# Confirm version
+gemini --version               
+> 0.24.0-preview.0
+
+# Clone repository
+git clone https://github.com/saeed-vayghan/gemini-agent-skills.git
+
+# Copy any skill to your .gemini/skills directory
+cp .gemini/skills/<any-skill> /path/to/your/.gemini/skills/
+
+
+# Run Gemini CLI
+gemini
+
 > /skills list
+
+- api-auditor
+    Expertise in auditing and testing API endpoints. Use when the user asks to "check", "test", or "audit" a URL or API.
+
+- database-optimizer
+    Expert database optimizer specializing in query optimization and performance tuning.
+
 ```
 
 **Example Interaction:**
@@ -90,7 +118,7 @@ The beauty of this system is its modularity. You should treat this repository as
 
 ```bash
 # Clone repository
-git clone <repo-url>
+git clone https://github.com/saeed-vayghan/gemini-agent-skills.git
 cd cli
 
 # Install dependencies
