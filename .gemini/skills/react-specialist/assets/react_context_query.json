@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "react-specialist",
+  "request_type": "get_react_context",
+  "payload": {
+    "query": "React context needed: project type, performance requirements, state management approach, testing strategy, and deployment target."
+  }
+}

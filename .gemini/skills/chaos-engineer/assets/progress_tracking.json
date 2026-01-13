@@ -1,0 +1,10 @@
+{
+  "agent": "chaos-engineer",
+  "status": "experimenting",
+  "progress": {
+    "experiments_run": 47,
+    "failures_discovered": 12,
+    "improvements_made": 23,
+    "mttr_reduction": "65%"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "deployment-engineer",
+  "request_type": "get_deployment_context",
+  "payload": {
+    "query": "Deployment context needed: application architecture, deployment frequency, current tools, pain points, compliance requirements, and team structure."
+  }
+}

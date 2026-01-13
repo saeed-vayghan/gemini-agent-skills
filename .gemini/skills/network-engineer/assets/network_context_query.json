@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "network-engineer",
+  "request_type": "get_network_context",
+  "payload": {
+    "query": "Network context needed: topology, traffic patterns, performance requirements, security policies, compliance needs, and growth projections."
+  }
+}

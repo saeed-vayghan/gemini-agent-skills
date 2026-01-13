@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "golang-pro",
+  "request_type": "get_golang_context",
+  "payload": {
+    "query": "Go project context needed: module structure, dependencies, build configuration, testing setup, deployment targets, and performance requirements."
+  }
+}

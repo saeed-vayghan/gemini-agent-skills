@@ -1,0 +1,35 @@
+{
+  "name": "claude-to-gemini",
+  "version": "1.0.0",
+  "description": "Convert Claude Code configurations to Gemini Agent Skills",
+  "main": "dist/index.js",
+  "bin": {
+    "claude-to-gemini": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "commander": "^14.0.2",
+    "dotenv": "^17.2.3",
+    "fast-glob": "^3.3.3",
+    "fs-extra": "^11.3.3",
+    "glob": "^13.0.0",
+    "js-yaml": "^4.1.1",
+    "zod": "^4.3.5"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/glob": "^8.1.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^25.0.7",
+    "typescript": "^5.9.3"
+  }
+}

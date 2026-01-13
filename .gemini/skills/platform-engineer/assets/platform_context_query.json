@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "platform-engineer",
+  "request_type": "get_platform_context",
+  "payload": {
+    "query": "Platform context needed: developer teams, tech stack, existing tools, pain points, self-service maturity, adoption metrics, and growth projections."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "search-specialist",
+  "request_type": "get_search_context",
+  "payload": {
+    "query": "Search context needed: information objectives, quality requirements, source preferences, time constraints, and coverage expectations."
+  }
+}

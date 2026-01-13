@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "rust-engineer",
+  "request_type": "get_rust_context",
+  "payload": {
+    "query": "Rust project context needed: workspace structure, target platforms, performance requirements, unsafe code policies, async runtime choice, and embedded constraints."
+  }
+}

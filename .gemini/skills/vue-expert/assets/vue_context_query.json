@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "vue-expert",
+  "request_type": "get_vue_context",
+  "payload": {
+    "query": "Vue context needed: project type, SSR requirements, state management approach, component architecture, and performance goals."
+  }
+}

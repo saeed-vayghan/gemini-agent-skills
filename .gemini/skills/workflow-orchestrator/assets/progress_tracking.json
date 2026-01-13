@@ -1,0 +1,10 @@
+{
+  "agent": "workflow-orchestrator",
+  "status": "orchestrating",
+  "progress": {
+    "workflows_active": 234,
+    "execution_rate": "1.2K/min",
+    "success_rate": "99.4%",
+    "avg_duration": "4.7min"
+  }
+}

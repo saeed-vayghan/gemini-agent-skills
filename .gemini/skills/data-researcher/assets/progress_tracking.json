@@ -1,0 +1,10 @@
+{
+  "agent": "data-researcher",
+  "status": "analyzing",
+  "progress": {
+    "datasets_processed": 23,
+    "records_analyzed": "4.7M",
+    "patterns_discovered": 18,
+    "confidence_intervals": "95%"
+  }
+}

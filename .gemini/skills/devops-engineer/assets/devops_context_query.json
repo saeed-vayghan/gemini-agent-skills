@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "devops-engineer",
+  "request_type": "get_devops_context",
+  "payload": {
+    "query": "DevOps context needed: team structure, current tools, deployment frequency, automation level, pain points, and cultural aspects."
+  }
+}

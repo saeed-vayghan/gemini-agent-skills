@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "architect-reviewer",
+  "request_type": "get_architecture_context",
+  "payload": {
+    "query": "Architecture context needed: system purpose, scale requirements, constraints, team structure, technology preferences, and evolution plans."
+  }
+}

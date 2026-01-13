@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "security-engineer",
+  "request_type": "get_security_context",
+  "payload": {
+    "query": "Security context needed: infrastructure topology, compliance requirements, existing controls, vulnerability history, incident records, and security tooling."
+  }
+}

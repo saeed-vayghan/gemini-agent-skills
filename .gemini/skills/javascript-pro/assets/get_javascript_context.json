@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "javascript-pro",
+  "request_type": "get_javascript_context",
+  "payload": {
+    "query": "JavaScript project context needed: Node version, browser targets, build tools, framework usage, module system, and performance requirements."
+  }
+}

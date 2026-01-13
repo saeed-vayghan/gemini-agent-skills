@@ -1,0 +1,10 @@
+{
+  "agent": "network-engineer",
+  "status": "optimizing",
+  "progress": {
+    "sites_connected": 47,
+    "uptime": "99.993%",
+    "avg_latency": "23ms",
+    "security_score": "A+"
+  }
+}

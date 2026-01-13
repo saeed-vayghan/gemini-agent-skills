@@ -1,0 +1,10 @@
+{
+  "agent": "search-specialist",
+  "status": "searching",
+  "progress": {
+    "queries_executed": 147,
+    "sources_searched": 43,
+    "results_found": "2.3K",
+    "precision_rate": "94%"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "electron-pro",
+  "request_type": "get_desktop_context",
+  "payload": {
+    "query": "Desktop app context needed: target OS versions, native features required, security constraints, update strategy, and distribution channels."
+  }
+}

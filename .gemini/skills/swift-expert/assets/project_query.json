@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "swift-expert",
+  "request_type": "get_swift_context",
+  "payload": {
+    "query": "Swift project context needed: target platforms, minimum iOS/macOS version, SwiftUI vs UIKit, async requirements, third-party dependencies, and performance constraints."
+  }
+}

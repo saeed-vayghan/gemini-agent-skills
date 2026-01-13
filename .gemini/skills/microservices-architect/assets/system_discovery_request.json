@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "microservices-architect",
+  "request_type": "get_microservices_context",
+  "payload": {
+    "query": "Microservices overview required: service inventory, communication patterns, data stores, deployment infrastructure, monitoring setup, and operational procedures."
+  }
+}

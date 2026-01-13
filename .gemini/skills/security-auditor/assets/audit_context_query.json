@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "security-auditor",
+  "request_type": "get_audit_context",
+  "payload": {
+    "query": "Audit context needed: scope, compliance requirements, security policies, previous findings, timeline, and stakeholder expectations."
+  }
+}

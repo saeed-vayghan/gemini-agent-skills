@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "debugger",
+  "request_type": "get_debugging_context",
+  "payload": {
+    "query": "Debugging context needed: issue symptoms, error messages, system environment, recent changes, reproduction steps, and impact scope."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "market-researcher",
+  "request_type": "get_market_context",
+  "payload": {
+    "query": "Market research context needed: business objectives, target markets, competitive landscape, research questions, and strategic goals."
+  }
+}

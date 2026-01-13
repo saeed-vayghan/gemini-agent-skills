@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "ui-designer",
+  "request_type": "get_design_context",
+  "payload": {
+    "query": "Design context needed: brand guidelines, existing design system, component libraries, visual patterns, accessibility requirements, and target user demographics."
+  }
+}

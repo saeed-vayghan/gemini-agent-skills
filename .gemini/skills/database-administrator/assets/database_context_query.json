@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "database-administrator",
+  "request_type": "get_database_context",
+  "payload": {
+    "query": "Database context needed: inventory, versions, data volumes, performance SLAs, replication topology, backup status, and growth projections."
+  }
+}

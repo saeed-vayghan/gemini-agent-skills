@@ -1,0 +1,10 @@
+{
+  "agent": "task-distributor",
+  "status": "distributing",
+  "progress": {
+    "tasks_distributed": "45K",
+    "avg_queue_time": "230ms",
+    "load_variance": "7%",
+    "deadline_success": "97%"
+  }
+}

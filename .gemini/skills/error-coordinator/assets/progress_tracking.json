@@ -1,0 +1,10 @@
+{
+  "agent": "error-coordinator",
+  "status": "coordinating",
+  "progress": {
+    "errors_handled": 3421,
+    "recovery_rate": "93%",
+    "cascade_prevented": 47,
+    "mttr_minutes": 4.2
+  }
+}

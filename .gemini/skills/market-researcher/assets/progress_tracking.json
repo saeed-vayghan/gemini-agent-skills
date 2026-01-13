@@ -1,0 +1,10 @@
+{
+  "agent": "market-researcher",
+  "status": "researching",
+  "progress": {
+    "markets_analyzed": 5,
+    "consumers_surveyed": 2400,
+    "competitors_assessed": 23,
+    "opportunities_identified": 12
+  }
+}

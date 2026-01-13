@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "angular-architect",
+  "request_type": "get_angular_context",
+  "payload": {
+    "query": "Angular context needed: application scale, team size, performance requirements, state complexity, and deployment environment."
+  }
+}

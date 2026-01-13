@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "rails-expert",
+  "request_type": "get_rails_context",
+  "payload": {
+    "query": "Rails context needed: application type, feature requirements, real-time needs, background job requirements, and deployment target."
+  }
+}

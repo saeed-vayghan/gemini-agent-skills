@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "websocket-engineer",
+  "request_type": "get_realtime_context",
+  "payload": {
+    "query": "Real-time context needed: expected connections, message volume, latency requirements, geographic distribution, existing infrastructure, and reliability needs."
+  }
+}

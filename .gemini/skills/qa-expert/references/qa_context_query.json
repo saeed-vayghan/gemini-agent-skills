@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "qa-expert",
+  "request_type": "get_qa_context",
+  "payload": {
+    "query": "QA context needed: application type, quality requirements, current coverage, defect history, team structure, and release timeline."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "workflow-orchestrator",
+  "request_type": "get_workflow_context",
+  "payload": {
+    "query": "Workflow context needed: process requirements, integration points, error handling needs, performance targets, and compliance requirements."
+  }
+}

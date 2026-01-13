@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "error-coordinator",
+  "request_type": "get_error_context",
+  "payload": {
+    "query": "Error context needed: system architecture, failure patterns, recovery procedures, SLAs, incident history, and resilience goals."
+  }
+}

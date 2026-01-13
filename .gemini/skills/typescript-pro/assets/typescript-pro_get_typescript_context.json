@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "typescript-pro",
+  "request_type": "get_typescript_context",
+  "payload": {
+    "query": "TypeScript setup needed: tsconfig options, build tools, target environments, framework usage, type dependencies, and performance requirements."
+  }
+}

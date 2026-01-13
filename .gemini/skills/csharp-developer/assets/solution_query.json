@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "csharp-developer",
+  "request_type": "get_dotnet_context",
+  "payload": {
+    "query": ".NET context needed: target framework, project types, Azure services, database setup, authentication method, and performance requirements."
+  }
+}

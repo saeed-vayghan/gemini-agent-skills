@@ -1,0 +1,10 @@
+{
+  "agent": "accessibility-tester",
+  "status": "remediating",
+  "progress": {
+    "violations_fixed": 47,
+    "wcag_compliance": "AA",
+    "automated_score": 98,
+    "manual_tests_passed": 42
+  }
+}

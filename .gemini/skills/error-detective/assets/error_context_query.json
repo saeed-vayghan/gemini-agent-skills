@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "error-detective",
+  "request_type": "get_error_context",
+  "payload": {
+    "query": "Error context needed: error types, frequency, affected services, time patterns, recent changes, and system architecture."
+  }
+}

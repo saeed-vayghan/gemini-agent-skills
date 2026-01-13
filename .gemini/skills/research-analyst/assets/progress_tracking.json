@@ -1,0 +1,10 @@
+{
+  "agent": "research-analyst",
+  "status": "researching",
+  "progress": {
+    "sources_analyzed": 234,
+    "data_points": "12.4K",
+    "insights_generated": 47,
+    "confidence_level": "94%"
+  }
+}

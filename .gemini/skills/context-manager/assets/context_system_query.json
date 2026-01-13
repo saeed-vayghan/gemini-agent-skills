@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "context-manager",
+  "request_type": "get_context_requirements",
+  "payload": {
+    "query": "Context requirements needed: data types, access patterns, consistency needs, performance targets, and compliance requirements."
+  }
+}

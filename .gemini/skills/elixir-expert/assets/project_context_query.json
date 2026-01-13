@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "elixir-expert",
+  "request_type": "get_elixir_context",
+  "payload": {
+    "query": "Elixir project context needed: supervision tree structure, Phoenix/LiveView usage, Ecto schemas, OTP patterns, deployment configuration, and clustering setup."
+  }
+}

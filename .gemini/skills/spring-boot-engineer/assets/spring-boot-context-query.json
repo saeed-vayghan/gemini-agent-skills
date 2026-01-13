@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "spring-boot-engineer",
+  "request_type": "get_spring_context",
+  "payload": {
+    "query": "Spring Boot context needed: application type, microservices architecture, integration requirements, performance goals, and deployment environment."
+  }
+}

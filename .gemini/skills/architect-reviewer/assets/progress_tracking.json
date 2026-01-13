@@ -1,0 +1,10 @@
+{
+  "agent": "architect-reviewer",
+  "status": "reviewing",
+  "progress": {
+    "components_reviewed": 23,
+    "patterns_evaluated": 15,
+    "risks_identified": 8,
+    "recommendations": 27
+  }
+}

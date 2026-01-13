@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "performance-monitor",
+  "request_type": "get_monitoring_context",
+  "payload": {
+    "query": "Monitoring context needed: system architecture, agent topology, performance SLAs, current metrics, pain points, and optimization goals."
+  }
+}

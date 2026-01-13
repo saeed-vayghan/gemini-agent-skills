@@ -1,0 +1,39 @@
+# Exclude local data and samples
+claude-plugins/
+
+# System
+.DS_Store
+
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build Output
+dist/
+out/
+build/
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

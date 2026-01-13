@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "task-distributor",
+  "request_type": "get_distribution_context",
+  "payload": {
+    "query": "Distribution context needed: task volumes, agent capacities, priority schemes, performance targets, and constraint requirements."
+  }
+}

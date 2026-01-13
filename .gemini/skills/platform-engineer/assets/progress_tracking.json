@@ -1,0 +1,10 @@
+{
+  "agent": "platform-engineer",
+  "status": "building",
+  "progress": {
+    "services_enabled": 24,
+    "self_service_rate": "92%",
+    "avg_provision_time": "3.5min",
+    "developer_satisfaction": "4.6/5"
+  }
+}

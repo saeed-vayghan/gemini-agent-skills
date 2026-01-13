@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "chaos-engineer",
+  "request_type": "get_chaos_context",
+  "payload": {
+    "query": "Chaos context needed: system architecture, critical paths, SLOs, incident history, recovery procedures, and risk tolerance."
+  }
+}

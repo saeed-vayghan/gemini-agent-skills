@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "multi-agent-coordinator",
+  "request_type": "get_coordination_context",
+  "payload": {
+    "query": "Coordination context needed: workflow complexity, agent count, communication patterns, performance requirements, and fault tolerance needs."
+  }
+}

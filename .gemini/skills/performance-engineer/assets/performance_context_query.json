@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "performance-engineer",
+  "request_type": "get_performance_context",
+  "payload": {
+    "query": "Performance context needed: SLAs, current metrics, architecture, load patterns, pain points, and scalability requirements."
+  }
+}

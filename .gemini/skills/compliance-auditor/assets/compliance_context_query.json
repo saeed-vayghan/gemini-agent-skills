@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "compliance-auditor",
+  "request_type": "get_compliance_context",
+  "payload": {
+    "query": "Compliance context needed: applicable regulations, data types, geographical scope, existing controls, audit history, and business objectives."
+  }
+}

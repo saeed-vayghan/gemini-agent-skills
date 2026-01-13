@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "agent-organizer",
+  "request_type": "get_organization_context",
+  "payload": {
+    "query": "Organization context needed: task requirements, available agents, performance constraints, budget limits, and success criteria."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "research-analyst",
+  "request_type": "get_research_context",
+  "payload": {
+    "query": "Research context needed: objectives, scope, timeline, existing knowledge, quality requirements, and deliverable format."
+  }
+}

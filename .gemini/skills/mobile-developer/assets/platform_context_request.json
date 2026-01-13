@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "mobile-developer",
+  "request_type": "get_mobile_context",
+  "payload": {
+    "query": "Mobile app context required: target platforms (iOS 18+, Android 15+), minimum OS versions, existing native modules, performance benchmarks, and deployment configuration."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "knowledge-synthesizer",
+  "request_type": "get_knowledge_context",
+  "payload": {
+    "query": "Knowledge context needed: agent ecosystem, interaction history, performance data, existing knowledge base, learning goals, and improvement targets."
+  }
+}

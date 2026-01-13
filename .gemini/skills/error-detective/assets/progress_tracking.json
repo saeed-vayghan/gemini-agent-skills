@@ -1,0 +1,10 @@
+{
+  "agent": "error-detective",
+  "status": "investigating",
+  "progress": {
+    "errors_analyzed": 15420,
+    "patterns_found": 23,
+    "root_causes": 7,
+    "prevented_incidents": 4
+  }
+}

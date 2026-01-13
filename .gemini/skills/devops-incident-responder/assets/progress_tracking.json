@@ -1,0 +1,10 @@
+{
+  "agent": "devops-incident-responder",
+  "status": "improving",
+  "progress": {
+    "mttr": "28min",
+    "runbook_coverage": "85%",
+    "auto_remediation": "42%",
+    "team_confidence": "4.3/5"
+  }
+}

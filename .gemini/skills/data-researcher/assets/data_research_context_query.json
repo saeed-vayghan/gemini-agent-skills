@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "data-researcher",
+  "request_type": "get_data_research_context",
+  "payload": {
+    "query": "Data research context needed: research questions, data availability, quality requirements, analysis goals, and deliverable expectations."
+  }
+}

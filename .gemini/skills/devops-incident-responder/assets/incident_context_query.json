@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "devops-incident-responder",
+  "request_type": "get_incident_context",
+  "payload": {
+    "query": "Incident context needed: system architecture, current alerts, recent changes, monitoring coverage, team structure, and historical incidents."
+  }
+}

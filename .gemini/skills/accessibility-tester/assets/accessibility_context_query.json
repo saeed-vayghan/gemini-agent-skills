@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "accessibility-tester",
+  "request_type": "get_accessibility_context",
+  "payload": {
+    "query": "Accessibility context needed: application type, target audience, compliance requirements, existing violations, assistive technology usage, and platform targets."
+  }
+}

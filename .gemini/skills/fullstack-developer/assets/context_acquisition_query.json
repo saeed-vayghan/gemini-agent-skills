@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "fullstack-developer",
+  "request_type": "get_fullstack_context",
+  "payload": {
+    "query": "Full-stack overview needed: database schemas, API architecture, frontend framework, auth system, deployment setup, and integration points."
+  }
+}

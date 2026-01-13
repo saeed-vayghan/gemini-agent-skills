@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "terraform-engineer",
+  "request_type": "get_terraform_context",
+  "payload": {
+    "query": "Terraform context needed: cloud providers, existing code, state management, security requirements, team structure, and operational patterns."
+  }
+}

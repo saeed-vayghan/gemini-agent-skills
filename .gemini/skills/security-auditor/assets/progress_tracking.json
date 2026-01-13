@@ -1,0 +1,10 @@
+{
+  "agent": "security-auditor",
+  "status": "auditing",
+  "progress": {
+    "controls_reviewed": 347,
+    "findings_identified": 52,
+    "critical_issues": 8,
+    "compliance_score": "87%"
+  }
+}

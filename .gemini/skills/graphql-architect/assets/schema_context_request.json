@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "graphql-architect",
+  "request_type": "get_graphql_context",
+  "payload": {
+    "query": "GraphQL architecture needed: existing schemas, service boundaries, data sources, query patterns, performance requirements, and client applications."
+  }
+}

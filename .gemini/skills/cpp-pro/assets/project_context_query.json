@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "cpp-pro",
+  "request_type": "get_cpp_context",
+  "payload": {
+    "query": "C++ project context needed: compiler version, target platform, performance requirements, memory constraints, real-time needs, and existing codebase patterns."
+  }
+}

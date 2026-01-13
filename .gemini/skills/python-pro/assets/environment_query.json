@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "python-pro",
+  "request_type": "get_python_context",
+  "payload": {
+    "query": "Python environment needed: interpreter version, installed packages, virtual env setup, code style config, test framework, type checking setup, and CI/CD pipeline."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "kotlin-specialist",
+  "request_type": "get_kotlin_context",
+  "payload": {
+    "query": "Kotlin project context needed: target platforms, coroutine usage, Android components, build configuration, multiplatform setup, and performance requirements."
+  }
+}

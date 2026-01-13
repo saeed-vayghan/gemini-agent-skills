@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "laravel-specialist",
+  "request_type": "get_laravel_context",
+  "payload": {
+    "query": "Laravel context needed: application type, database design, API requirements, queue needs, and deployment environment."
+  }
+}

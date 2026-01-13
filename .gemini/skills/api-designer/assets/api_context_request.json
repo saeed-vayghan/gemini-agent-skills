@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "api-designer",
+  "request_type": "get_api_context",
+  "payload": {
+    "query": "API design context required: existing endpoints, data models, client applications, performance requirements, and integration patterns."
+  }
+}

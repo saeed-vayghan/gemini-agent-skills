@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "dotnet-framework-4.8-expert",
+  "request_type": "get_dotnet_framework_context",
+  "payload": {
+    "query": ".NET Framework context needed: application type, legacy constraints, modernization goals, enterprise requirements, and Windows deployment needs."
+  }
+}

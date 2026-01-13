@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "incident-responder",
+  "request_type": "get_incident_context",
+  "payload": {
+    "query": "Incident context needed: incident type, affected systems, current status, team availability, compliance requirements, and communication needs."
+  }
+}

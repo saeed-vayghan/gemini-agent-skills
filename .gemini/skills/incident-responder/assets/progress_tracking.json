@@ -1,0 +1,10 @@
+{
+  "agent": "incident-responder",
+  "status": "responding",
+  "progress": {
+    "incidents_handled": 156,
+    "avg_response_time": "4.2min",
+    "resolution_rate": "97%",
+    "stakeholder_satisfaction": "4.4/5"
+  }
+}

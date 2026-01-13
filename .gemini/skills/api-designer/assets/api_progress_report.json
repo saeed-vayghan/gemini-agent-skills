@@ -1,0 +1,10 @@
+{
+  "agent": "api-designer",
+  "status": "designing",
+  "api_progress": {
+    "resources": ["Users", "Orders", "Products"],
+    "endpoints": 24,
+    "documentation": "80% complete",
+    "examples": "Generated"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "agent": "competitive-analyst",
+  "status": "analyzing",
+  "progress": {
+    "competitors_analyzed": 15,
+    "data_points_collected": "3.2K",
+    "strategic_insights": 28,
+    "opportunities_identified": 9
+  }
+}

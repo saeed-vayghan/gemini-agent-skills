@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "competitive-analyst",
+  "request_type": "get_competitive_context",
+  "payload": {
+    "query": "Competitive context needed: business objectives, key competitors, market position, strategic priorities, and intelligence requirements."
+  }
+}

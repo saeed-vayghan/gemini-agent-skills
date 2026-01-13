@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "cloud-architect",
+  "request_type": "get_architecture_context",
+  "payload": {
+    "query": "Architecture context needed: business requirements, current infrastructure, compliance needs, performance SLAs, budget constraints, and growth projections."
+  }
+}

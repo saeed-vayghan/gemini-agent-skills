@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "kubernetes-specialist",
+  "request_type": "get_kubernetes_context",
+  "payload": {
+    "query": "Kubernetes context needed: cluster size, workload types, performance requirements, security needs, multi-tenancy requirements, and growth projections."
+  }
+}

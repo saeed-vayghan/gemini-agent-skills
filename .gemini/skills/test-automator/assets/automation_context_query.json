@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "test-automator",
+  "request_type": "get_automation_context",
+  "payload": {
+    "query": "Automation context needed: application type, tech stack, current coverage, manual tests, CI/CD setup, and team skills."
+  }
+}

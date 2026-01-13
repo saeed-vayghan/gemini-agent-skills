@@ -1,0 +1,10 @@
+{
+  "agent": "code-reviewer",
+  "status": "reviewing",
+  "progress": {
+    "files_reviewed": 47,
+    "issues_found": 23,
+    "critical_issues": 2,
+    "suggestions": 41
+  }
+}
