@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "data-scientist",
+  "request_type": "get_analysis_context",
+  "payload": {
+    "query": "Analysis context needed: business problem, success metrics, data availability, stakeholder expectations, timeline, and decision framework."
+  }
+}

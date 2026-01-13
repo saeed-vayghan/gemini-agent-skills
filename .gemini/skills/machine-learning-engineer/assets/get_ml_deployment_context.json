@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "machine-learning-engineer",
+  "request_type": "get_ml_deployment_context",
+  "payload": {
+    "query": "ML deployment context needed: model types, performance requirements, infrastructure constraints, scaling needs, latency targets, and budget limits."
+  }
+}

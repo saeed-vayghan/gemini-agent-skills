@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "data-analyst",
+  "request_type": "get_analysis_context",
+  "payload": {
+    "query": "Analysis context needed: business objectives, available data sources, existing reports, stakeholder requirements, technical constraints, and timeline."
+  }
+}

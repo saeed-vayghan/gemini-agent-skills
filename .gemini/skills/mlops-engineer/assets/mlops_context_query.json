@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "mlops-engineer",
+  "request_type": "get_mlops_context",
+  "payload": {
+    "query": "MLOps context needed: team size, ML workloads, current infrastructure, pain points, compliance requirements, and growth projections."
+  }
+}

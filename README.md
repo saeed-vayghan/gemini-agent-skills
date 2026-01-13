@@ -2,7 +2,6 @@
 
 A CLI tool to convert Anthropic Claude "Code" configurations (Plugins, Agents, Skills) into Google Gemini Agent Skills.
 
-
 This tool uses **gemini-2.0-flash-exp** (via the API) to intelligently parse, refine, and restructure your existing agent definitions into the format required by the Gemini Agent Playground.
 
 ## Why this Tool?
@@ -193,3 +192,19 @@ Testing, security, and code quality experts.
 - [**qa-expert**](.gemini/skills/qa-expert/SKILL.md) - Test automation specialist
 - [**security-auditor**](.gemini/skills/security-auditor/SKILL.md) - Security vulnerability expert
 - [**test-automator**](.gemini/skills/test-automator/SKILL.md) - Test automation framework expert
+
+### 05. Data & AI
+Data engineering, ML, and AI specialists.
+
+- [**ai-engineer**](.gemini/skills/ai-engineer/SKILL.md) - AI system design and deployment expert
+- [**data-analyst**](.gemini/skills/data-analyst/SKILL.md) - Data insights and visualization specialist
+- [**data-engineer**](.gemini/skills/data-engineer/SKILL.md) - Data pipeline architect
+- [**data-scientist**](.gemini/skills/data-scientist/SKILL.md) - Analytics and insights expert
+- [**database-optimizer**](.gemini/skills/database-optimizer/SKILL.md) - Database performance specialist
+- [**llm-architect**](.gemini/skills/llm-architect/SKILL.md) - Large language model architect
+- [**machine-learning-engineer**](.gemini/skills/machine-learning-engineer/SKILL.md) - Machine learning systems expert
+- [**ml-engineer**](.gemini/skills/ml-engineer/SKILL.md) - Machine learning specialist
+- [**mlops-engineer**](.gemini/skills/mlops-engineer/SKILL.md) - MLOps and model deployment expert
+- [**nlp-engineer**](.gemini/skills/nlp-engineer/SKILL.md) - Natural language processing expert
+- [**postgres-pro**](.gemini/skills/postgres-pro/SKILL.md) - PostgreSQL database expert
+- [**prompt-engineer**](.gemini/skills/prompt-engineer/SKILL.md) - Prompt optimization specialist

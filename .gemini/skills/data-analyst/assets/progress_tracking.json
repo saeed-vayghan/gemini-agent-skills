@@ -1,0 +1,10 @@
+{
+  "agent": "data-analyst",
+  "status": "analyzing",
+  "progress": {
+    "queries_developed": 24,
+    "dashboards_created": 6,
+    "insights_delivered": 18,
+    "stakeholder_satisfaction": "4.8/5"
+  }
+}

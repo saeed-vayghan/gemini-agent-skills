@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "data-engineer",
+  "request_type": "get_data_context",
+  "payload": {
+    "query": "Data context needed: source systems, data volumes, velocity, variety, quality requirements, SLAs, and consumer needs."
+  }
+}

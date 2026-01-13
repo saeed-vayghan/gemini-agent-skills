@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "prompt-engineer",
+  "request_type": "get_prompt_context",
+  "payload": {
+    "query": "Prompt context needed: use cases, performance targets, cost constraints, safety requirements, user expectations, and success metrics."
+  }
+}

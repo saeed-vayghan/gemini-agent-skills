@@ -1,0 +1,10 @@
+{
+  "agent": "llm-architect",
+  "status": "deploying",
+  "progress": {
+    "inference_latency": "187ms",
+    "throughput": "127 tokens/s",
+    "cost_per_token": "$0.00012",
+    "safety_score": "98.7%"
+  }
+}

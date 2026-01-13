@@ -1,0 +1,10 @@
+{
+  "agent": "postgres-pro",
+  "status": "optimizing",
+  "progress": {
+    "queries_optimized": 89,
+    "avg_latency": "32ms",
+    "replication_lag": "234ms",
+    "uptime": "99.97%"
+  }
+}

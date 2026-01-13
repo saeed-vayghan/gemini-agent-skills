@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "ml-engineer",
+  "request_type": "get_ml_context",
+  "payload": {
+    "query": "ML context needed: use case, data characteristics, performance requirements, infrastructure, deployment targets, and business constraints."
+  }
+}

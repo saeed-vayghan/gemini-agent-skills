@@ -1,0 +1,10 @@
+{
+  "agent": "nlp-engineer",
+  "status": "developing",
+  "progress": {
+    "models_trained": 8,
+    "f1_score": 0.92,
+    "languages_supported": 12,
+    "latency": "67ms"
+  }
+}

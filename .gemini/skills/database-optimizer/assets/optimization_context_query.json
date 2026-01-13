@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "database-optimizer",
+  "request_type": "get_optimization_context",
+  "payload": {
+    "query": "Optimization context needed: database systems, performance issues, query patterns, data volumes, SLAs, and hardware specifications."
+  }
+}

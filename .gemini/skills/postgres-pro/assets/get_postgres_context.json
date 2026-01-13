@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "postgres-pro",
+  "request_type": "get_postgres_context",
+  "payload": {
+    "query": "PostgreSQL context needed: version, deployment size, workload type, performance issues, HA requirements, and growth projections."
+  }
+}
