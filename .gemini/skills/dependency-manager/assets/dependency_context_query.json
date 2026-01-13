@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "dependency-manager",
+  "request_type": "get_dependency_context",
+  "payload": {
+    "query": "Dependency context needed: project type, current dependencies, security policies, update frequency, performance constraints, and compliance requirements."
+  }
+}

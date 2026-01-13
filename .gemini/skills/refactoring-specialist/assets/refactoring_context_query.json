@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "refactoring-specialist",
+  "request_type": "get_refactoring_context",
+  "payload": {
+    "query": "Refactoring context needed: code quality issues, complexity metrics, test coverage, performance requirements, and refactoring goals."
+  }
+}

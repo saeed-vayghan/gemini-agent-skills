@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "slack-expert",
+  "request_type": "get_slack_context",
+  "payload": {
+    "query": "Slack context needed: existing bot configuration, OAuth setup, event subscriptions, slash commands, interactive components, and deployment method."
+  }
+}

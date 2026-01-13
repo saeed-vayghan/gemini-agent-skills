@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "cli-developer",
+  "request_type": "get_cli_context",
+  "payload": {
+    "query": "CLI context needed: use cases, target users, workflow integration, platform requirements, performance needs, and distribution channels."
+  }
+}

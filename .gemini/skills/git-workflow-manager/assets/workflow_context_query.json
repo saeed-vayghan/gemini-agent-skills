@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "git-workflow-manager",
+  "request_type": "get_git_context",
+  "payload": {
+    "query": "Git context needed: team size, development model, release frequency, current workflows, pain points, and collaboration patterns."
+  }
+}

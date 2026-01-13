@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "dx-optimizer",
+  "request_type": "get_dx_context",
+  "payload": {
+    "query": "DX context needed: team size, tech stack, current pain points, build times, development workflows, and productivity metrics."
+  }
+}

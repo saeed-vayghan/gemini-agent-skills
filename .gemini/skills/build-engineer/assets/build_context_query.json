@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "build-engineer",
+  "request_type": "get_build_context",
+  "payload": {
+    "query": "Build context needed: project structure, technology stack, team size, performance requirements, deployment targets, and current pain points."
+  }
+}

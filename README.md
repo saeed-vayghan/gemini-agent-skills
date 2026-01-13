@@ -22,6 +22,48 @@ I am dedicated to optimizing these agents to be fully native and highly efficien
 Currently, I am developing an advanced configuration system that utilizes [Project Mitra](https://github.com/saeed-vayghan/mitra).
 This will unlock deeper customization and more structured control over your Gemini Agent Skills.
 
+## Using Gemini Agent Skills
+
+Once you have generated your skills, you can interact with them directly in the Gemini CLI.
+
+**List installed skills:**
+```bash
+> /skills list
+```
+
+**Example Interaction:**
+Simply ask for help, and Gemini will automatically activate the relevant expert skill.
+
+```
+> how can you help me to optimize my Mongodb collection?
+
+✦ I can help you with that. I'll activate the database-optimizer skill to provide you with expert guidance on optimizing your MongoDB
+  collection.
+╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│ ✓  Activate Skill "database-optimizer": Expert database optimizer specializing in query optimization, performance tuning, and scalability… │
+│                                                                                                                                            │
+│ Skill **database-optimizer** activated. Resources loaded:                                                                                  │
+│                                                                                                                                            │
+│ ├───SKILL.md                                                                                                                               │
+│ ├───assets/                                                                                                                                │
+│ │   ├───optimization_context_query.json                                                                                                    │
+│ │   └───progress_tracking.json                                                                                                             │
+│ └───references/                                                                                                                            │
+╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+✦ To assist you with optimizing your MongoDB collection, I can help with query analysis, index strategy, schema design, and configuration
+  tuning.
+
+  To get started, please share some details about your situation:
+
+   1. What is the primary issue? (e.g., slow specific queries, high CPU usage, slow writes, general sluggishness)
+   2. Collection Statistics: Roughly how many documents are in the collection and what is the total data size?
+   3. Query Patterns: Can you share an example of a slow query and its typical filter/sort criteria?
+   4. Current Indexes: What indexes do you currently have defined on this collection?
+   5. Document Structure: A brief description or JSON example of a typical document.
+
+  Once you provide this context, I can analyze the situation and recommend specific optimizations.
+```
+
 ## Features
 
 - **Dual Conversion Modes**:
@@ -208,3 +250,20 @@ Data engineering, ML, and AI specialists.
 - [**nlp-engineer**](.gemini/skills/nlp-engineer/SKILL.md) - Natural language processing expert
 - [**postgres-pro**](.gemini/skills/postgres-pro/SKILL.md) - PostgreSQL database expert
 - [**prompt-engineer**](.gemini/skills/prompt-engineer/SKILL.md) - Prompt optimization specialist
+
+### 06. Developer Experience
+Tooling and developer productivity experts.
+
+- [**build-engineer**](.gemini/skills/build-engineer/SKILL.md) - Build system specialist
+- [**cli-developer**](.gemini/skills/cli-developer/SKILL.md) - Command-line tool creator
+- [**dependency-manager**](.gemini/skills/dependency-manager/SKILL.md) - Package and dependency specialist
+- [**documentation-engineer**](.gemini/skills/documentation-engineer/SKILL.md) - Technical documentation expert
+- [**dx-optimizer**](.gemini/skills/dx-optimizer/SKILL.md) - Developer experience optimization specialist
+- [**git-workflow-manager**](.gemini/skills/git-workflow-manager/SKILL.md) - Git workflow and branching expert
+- [**legacy-modernizer**](.gemini/skills/legacy-modernizer/SKILL.md) - Legacy code modernization specialist
+- [**mcp-developer**](.gemini/skills/mcp-developer/SKILL.md) - Model Context Protocol specialist
+- [**powershell-ui-architect**](.gemini/skills/powershell-ui-architect/SKILL.md) - PowerShell UI/UX specialist for WinForms, WPF, Metro frameworks, and TUIs
+- [**powershell-module-architect**](.gemini/skills/powershell-module-architect/SKILL.md) - PowerShell module and profile architecture specialist
+- [**refactoring-specialist**](.gemini/skills/refactoring-specialist/SKILL.md) - Code refactoring expert
+- [**slack-expert**](.gemini/skills/slack-expert/SKILL.md) - Slack platform and @slack/bolt specialist
+- [**tooling-engineer**](.gemini/skills/tooling-engineer/SKILL.md) - Developer tooling specialist

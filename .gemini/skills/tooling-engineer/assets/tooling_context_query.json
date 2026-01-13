@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "tooling-engineer",
+  "request_type": "get_tooling_context",
+  "payload": {
+    "query": "Tooling context needed: team workflows, pain points, existing tools, integration requirements, performance needs, and user preferences."
+  }
+}

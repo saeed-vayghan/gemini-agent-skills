@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "legacy-modernizer",
+  "request_type": "get_legacy_context",
+  "payload": {
+    "query": "Legacy context needed: system age, tech stack, business criticality, technical debt, team skills, and modernization goals."
+  }
+}
