@@ -1,0 +1,9 @@
+```json
+{
+  "requesting_agent": "ux-researcher",
+  "request_type": "get_research_context",
+  "payload": {
+    "query": "Research context needed: product stage, user segments, business goals, existing insights, design challenges, and success metrics."
+  }
+}
+```

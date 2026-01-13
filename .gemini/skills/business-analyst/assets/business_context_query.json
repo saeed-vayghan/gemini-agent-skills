@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "business-analyst",
+  "request_type": "get_business_context",
+  "payload": {
+    "query": "Business context needed: objectives, current processes, pain points, stakeholders, data sources, and success criteria."
+  }
+}

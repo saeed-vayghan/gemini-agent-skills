@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "product-manager",
+  "request_type": "get_product_context",
+  "payload": {
+    "query": "Product context needed: vision, target users, market landscape, business model, current metrics, and growth objectives."
+  }
+}

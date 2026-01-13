@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "content-marketer",
+  "request_type": "get_content_context",
+  "payload": {
+    "query": "Content context needed: brand voice, target audience, marketing goals, current performance, competitive landscape, and success metrics."
+  }
+}

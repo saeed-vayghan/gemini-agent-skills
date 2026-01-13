@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "wordpress-master",
+  "request_type": "get_wordpress_context",
+  "payload": {
+    "query": "WordPress context needed: site purpose, traffic volume, technical requirements, existing infrastructure, performance goals, security needs, and budget constraints."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "agent": "project-manager",
+  "status": "executing",
+  "progress": {
+    "completion": "73%",
+    "on_schedule": true,
+    "budget_used": "68%",
+    "risks_mitigated": 14
+  }
+}

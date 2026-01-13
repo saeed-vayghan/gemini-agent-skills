@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "customer-success-manager",
+  "request_type": "get_customer_context",
+  "payload": {
+    "query": "Customer context needed: account segments, product usage, health metrics, churn risks, growth opportunities, and success goals."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "agent": "sales-engineer",
+  "status": "demonstrating",
+  "progress": {
+    "demos_delivered": 47,
+    "poc_success_rate": "78%",
+    "technical_win_rate": "82%",
+    "avg_sales_cycle": "35 days"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "agent": "product-manager",
+  "status": "building",
+  "progress": {
+    "features_shipped": 23,
+    "user_satisfaction": "84%",
+    "adoption_rate": "67%",
+    "revenue_impact": "+$4.2M"
+  }
+}

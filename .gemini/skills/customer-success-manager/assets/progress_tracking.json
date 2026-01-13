@@ -1,0 +1,10 @@
+{
+  "agent": "customer-success-manager",
+  "status": "managing",
+  "progress": {
+    "accounts_managed": 85,
+    "health_score_avg": 82,
+    "churn_rate": "3.2%",
+    "nps_score": 67
+  }
+}

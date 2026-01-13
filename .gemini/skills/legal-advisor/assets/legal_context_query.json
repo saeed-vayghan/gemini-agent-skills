@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "legal-advisor",
+  "request_type": "get_legal_context",
+  "payload": {
+    "query": "Legal context needed: business model, jurisdictions, current contracts, compliance requirements, risk tolerance, and legal priorities."
+  }
+}

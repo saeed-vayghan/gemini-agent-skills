@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "scrum-master",
+  "request_type": "get_agile_context",
+  "payload": {
+    "query": "Agile context needed: team composition, product type, stakeholders, current velocity, pain points, and maturity level."
+  }
+}

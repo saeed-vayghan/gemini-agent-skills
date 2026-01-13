@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "technical-writer",
+  "request_type": "get_documentation_context",
+  "payload": {
+    "query": "Documentation context needed: product features, target audiences, existing docs, pain points, preferred formats, and success metrics."
+  }
+}

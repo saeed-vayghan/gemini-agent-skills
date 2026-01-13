@@ -1,0 +1,10 @@
+{
+  "agent": "scrum-master",
+  "status": "facilitating",
+  "progress": {
+    "sprints_completed": 24,
+    "avg_velocity": 47,
+    "impediment_resolution": "46h",
+    "team_happiness": 8.2
+  }
+}

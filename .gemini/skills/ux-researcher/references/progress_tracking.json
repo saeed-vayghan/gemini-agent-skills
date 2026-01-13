@@ -1,0 +1,12 @@
+```json
+{
+  "agent": "ux-researcher",
+  "status": "analyzing",
+  "progress": {
+    "studies_completed": 12,
+    "participants": 247,
+    "insights_generated": 89,
+    "design_impact": "high"
+  }
+}
+```

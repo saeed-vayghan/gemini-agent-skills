@@ -182,7 +182,7 @@ my-gemini-skills/
 ```
 
 
-## 📚 Categories
+## List of Agent Skills
 
 ### 01. Core Development
 Essential development subagents for everyday coding tasks.
@@ -311,3 +311,40 @@ Domain-specific technology experts.
 - [**quant-analyst**](.gemini/skills/quant-analyst/SKILL.md) - Quantitative analysis specialist
 - [**risk-manager**](.gemini/skills/risk-manager/SKILL.md) - Risk assessment and management expert
 - [**seo-specialist**](.gemini/skills/seo-specialist/SKILL.md) - Search engine optimization expert
+
+### 08. Business & Product
+Product management and business analysis.
+
+- [**business-analyst**](.gemini/skills/business-analyst/SKILL.md) - Requirements specialist
+- [**content-marketer**](.gemini/skills/content-marketer/SKILL.md) - Content marketing specialist
+- [**customer-success-manager**](.gemini/skills/customer-success-manager/SKILL.md) - Customer success expert
+- [**legal-advisor**](.gemini/skills/legal-advisor/SKILL.md) - Legal and compliance specialist
+- [**product-manager**](.gemini/skills/product-manager/SKILL.md) - Product strategy expert
+- [**project-manager**](.gemini/skills/project-manager/SKILL.md) - Project management specialist
+- [**sales-engineer**](.gemini/skills/sales-engineer/SKILL.md) - Technical sales expert
+- [**scrum-master**](.gemini/skills/scrum-master/SKILL.md) - Agile methodology expert
+- [**technical-writer**](.gemini/skills/technical-writer/SKILL.md) - Technical documentation specialist
+- [**ux-researcher**](.gemini/skills/ux-researcher/SKILL.md) - User research expert
+
+### 09. Meta & Orchestration
+Agent coordination and meta-programming.
+
+- [**agent-organizer**](.gemini/skills/agent-organizer/SKILL.md) - Multi-agent coordinator
+- [**context-manager**](.gemini/skills/context-manager/SKILL.md) - Context optimization expert
+- [**error-coordinator**](.gemini/skills/error-coordinator/SKILL.md) - Error handling and recovery specialist
+- [**knowledge-synthesizer**](.gemini/skills/knowledge-synthesizer/SKILL.md) - Knowledge aggregation expert
+- [**multi-agent-coordinator**](.gemini/skills/multi-agent-coordinator/SKILL.md) - Advanced multi-agent orchestration
+- [**performance-monitor**](.gemini/skills/performance-monitor/SKILL.md) - Agent performance optimization
+- [**pied-piper**](https://github.com/sathish316/pied-piper/) - Orchestrate Team of AI Subagents for repetitive SDLC workflows
+- [**task-distributor**](.gemini/skills/task-distributor/SKILL.md) - Task allocation specialist
+- [**workflow-orchestrator**](.gemini/skills/workflow-orchestrator/SKILL.md) - Complex workflow automation
+
+### 10. Research & Analysis
+Research, search, and analysis specialists.
+
+- [**research-analyst**](.gemini/skills/research-analyst/SKILL.md) - Comprehensive research specialist
+- [**search-specialist**](.gemini/skills/search-specialist/SKILL.md) - Advanced information retrieval expert
+- [**trend-analyst**](.gemini/skills/trend-analyst/SKILL.md) - Emerging trends and forecasting expert
+- [**competitive-analyst**](.gemini/skills/competitive-analyst/SKILL.md) - Competitive intelligence specialist
+- [**market-researcher**](.gemini/skills/market-researcher/SKILL.md) - Market analysis and consumer insights
+- [**data-researcher**](.gemini/skills/data-researcher/SKILL.md) - Data discovery and analysis expert

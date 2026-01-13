@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "sales-engineer",
+  "request_type": "get_sales_context",
+  "payload": {
+    "query": "Sales context needed: prospect requirements, technical environment, competition, timeline, decision criteria, and success metrics."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "project-manager",
+  "request_type": "get_project_context",
+  "payload": {
+    "query": "Project context needed: objectives, scope, timeline, budget, resources, stakeholders, and success criteria."
+  }
+}

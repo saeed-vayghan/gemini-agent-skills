@@ -1,0 +1,10 @@
+{
+  "agent": "business-analyst",
+  "status": "analyzing",
+  "progress": {
+    "requirements_documented": 87,
+    "processes_mapped": 12,
+    "stakeholders_engaged": 23,
+    "roi_projected": "$2.3M"
+  }
+}
