@@ -1,0 +1,10 @@
+{
+  "agent": "game-developer",
+  "status": "developing",
+  "progress": {
+    "fps_average": 72,
+    "load_time": "2.3s",
+    "memory_usage": "1.2GB",
+    "network_latency": "45ms"
+  }
+}

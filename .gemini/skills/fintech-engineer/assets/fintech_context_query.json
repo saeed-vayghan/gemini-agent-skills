@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "fintech-engineer",
+  "request_type": "get_fintech_context",
+  "payload": {
+    "query": "Fintech context needed: system type, transaction volume, regulatory requirements, integration needs, security standards, and compliance frameworks."
+  }
+}

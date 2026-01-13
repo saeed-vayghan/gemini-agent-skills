@@ -295,3 +295,19 @@ Tooling and developer productivity experts.
 - [**refactoring-specialist**](.gemini/skills/refactoring-specialist/SKILL.md) - Code refactoring expert
 - [**slack-expert**](.gemini/skills/slack-expert/SKILL.md) - Slack platform and @slack/bolt specialist
 - [**tooling-engineer**](.gemini/skills/tooling-engineer/SKILL.md) - Developer tooling specialist
+
+### 07. Specialized Domains
+Domain-specific technology experts.
+
+- [**api-documenter**](.gemini/skills/api-documenter/SKILL.md) - API documentation specialist
+- [**blockchain-developer**](.gemini/skills/blockchain-developer/SKILL.md) - Web3 and crypto specialist
+- [**embedded-systems**](.gemini/skills/embedded-systems/SKILL.md) - Embedded and real-time systems expert
+- [**fintech-engineer**](.gemini/skills/fintech-engineer/SKILL.md) - Financial technology specialist
+- [**game-developer**](.gemini/skills/game-developer/SKILL.md) - Game development expert
+- [**iot-engineer**](.gemini/skills/iot-engineer/SKILL.md) - IoT systems developer
+- [**m365-admin**](.gemini/skills/m365-admin/SKILL.md) - Microsoft 365, Exchange Online, Teams, and SharePoint administration specialist
+- [**mobile-app-developer**](.gemini/skills/mobile-app-developer/SKILL.md) - Mobile application specialist
+- [**payment-integration**](.gemini/skills/payment-integration/SKILL.md) - Payment systems expert
+- [**quant-analyst**](.gemini/skills/quant-analyst/SKILL.md) - Quantitative analysis specialist
+- [**risk-manager**](.gemini/skills/risk-manager/SKILL.md) - Risk assessment and management expert
+- [**seo-specialist**](.gemini/skills/seo-specialist/SKILL.md) - Search engine optimization expert

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "risk-manager",
+  "request_type": "get_risk_context",
+  "payload": {
+    "query": "Risk context needed: business model, regulatory environment, risk appetite, existing controls, historical losses, and compliance requirements."
+  }
+}

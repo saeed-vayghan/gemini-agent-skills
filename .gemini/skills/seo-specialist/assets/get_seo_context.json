@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "seo-specialist",
+  "request_type": "get_seo_context",
+  "payload": {
+    "query": "SEO context needed: current rankings, site architecture, content strategy, competitor landscape, technical implementation, and business objectives."
+  }
+}

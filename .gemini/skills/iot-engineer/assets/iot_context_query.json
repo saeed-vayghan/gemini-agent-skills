@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "iot-engineer",
+  "request_type": "get_iot_context",
+  "payload": {
+    "query": "IoT context needed: device types, scale, connectivity options, data volumes, security requirements, and use cases."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "agent": "mobile-app-developer",
+  "status": "developing",
+  "progress": {
+    "features_completed": 23,
+    "crash_rate": "0.08%",
+    "app_size": "42MB",
+    "user_rating": "4.7"
+  }
+}

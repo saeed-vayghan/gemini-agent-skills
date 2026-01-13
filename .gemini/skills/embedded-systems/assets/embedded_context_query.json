@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "embedded-systems",
+  "request_type": "get_embedded_context",
+  "payload": {
+    "query": "Embedded context needed: MCU specifications, peripherals, real-time requirements, power constraints, memory limits, and communication needs."
+  }
+}

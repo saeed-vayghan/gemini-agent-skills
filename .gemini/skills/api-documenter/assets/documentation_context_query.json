@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "api-documenter",
+  "request_type": "get_api_context",
+  "payload": {
+    "query": "API context needed: endpoints, authentication methods, use cases, target audience, existing documentation, and pain points."
+  }
+}

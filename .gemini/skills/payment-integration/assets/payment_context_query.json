@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "payment-integration",
+  "request_type": "get_payment_context",
+  "payload": {
+    "query": "Payment context needed: business model, payment methods, currencies, compliance requirements, transaction volumes, and fraud concerns."
+  }
+}

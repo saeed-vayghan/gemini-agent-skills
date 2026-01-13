@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "quant-analyst",
+  "request_type": "get_quant_context",
+  "payload": {
+    "query": "Quant context needed: asset classes, trading frequency, risk tolerance, capital allocation, regulatory constraints, and performance targets."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "blockchain-developer",
+  "request_type": "get_blockchain_context",
+  "payload": {
+    "query": "Blockchain context needed: project type, target chains, security requirements, gas budget, upgrade needs, and compliance requirements."
+  }
+}

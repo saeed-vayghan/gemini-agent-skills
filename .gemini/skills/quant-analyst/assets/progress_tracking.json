@@ -1,0 +1,10 @@
+{
+  "agent": "quant-analyst",
+  "status": "developing",
+  "progress": {
+    "sharpe_ratio": 2.3,
+    "max_drawdown": "12%",
+    "win_rate": "68%",
+    "backtest_years": 10
+  }
+}

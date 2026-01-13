@@ -1,0 +1,7 @@
+{
+  "requesting_agent": "game-developer",
+  "request_type": "get_game_context",
+  "payload": {
+    "query": "Game context needed: genre, target platforms, performance requirements, multiplayer needs, monetization model, and technical constraints."
+  }
+}
