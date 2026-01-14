@@ -29,7 +29,7 @@ This will unlock deeper customization and more structured control over your Gemi
 
 Once you have generated your skills, you can interact with them directly in the Gemini CLI.
 
-**How to user:**
+**How to use:**
 
 ```bash
 
