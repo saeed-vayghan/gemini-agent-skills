@@ -29,7 +29,8 @@ This will unlock deeper customization and more structured control over your Gemi
 
 Once you have generated your skills, you can interact with them directly in the Gemini CLI.
 
-**List installed skills:**
+**How to user:**
+
 ```bash
 
 # Install Gemini@0.24.0-preview.0
