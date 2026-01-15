@@ -1,5 +1,5 @@
 # Exclude local data and samples
-claude-plugins/
+claude-resources/
 
 # System
 .DS_Store
