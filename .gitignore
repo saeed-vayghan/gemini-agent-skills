@@ -1,5 +1,6 @@
 # Exclude local data and samples
 claude-resources/
+temp/
 
 # System
 .DS_Store
