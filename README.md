@@ -349,3 +349,9 @@ Research, search, and analysis specialists.
 - [**competitive-analyst**](.gemini/skills/competitive-analyst/SKILL.md) - Competitive intelligence specialist
 - [**market-researcher**](.gemini/skills/market-researcher/SKILL.md) - Market analysis and consumer insights
 - [**data-researcher**](.gemini/skills/data-researcher/SKILL.md) - Data discovery and analysis expert
+
+
+
+### 11. Google AI Specialists
+
+- [**google-file-api-expert**](.gemini/skills/google-file-api-expert/SKILL.md) - Google File API expert
